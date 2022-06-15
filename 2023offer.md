@@ -1,9 +1,5 @@
 # 国内
 
-test
-
-![image-20220615194100444](https://s2.loli.net/2022/06/15/emfdE7xqJgVc4H2.png)
-
 ## TPLINK
 
 - 性质：提前批
@@ -27,21 +23,11 @@ test
 ## 国泰君安-数字化专场
 
 - 性质：提前批
-
 - 公众号：国泰君安证券招聘
-
 - 申请链接：[申请](https://hr.gtja.com/)
-
 - Base：上海
-
 - 截止日期：2022.6.21
-
-- 流程
-
-  <img src="https://cdn.jsdelivr.net/gh/guaguaupup/cloudimg/data/640" alt="图片" style="zoom:45%; float:left" />
-
 - 备注：注意是2023届数字化人才市场
-
 - 锐评：不了解，可以补充
 
 
